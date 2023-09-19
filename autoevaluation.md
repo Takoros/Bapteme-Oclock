@@ -2,12 +2,10 @@
 
 | Critère | 👍 | 👎 |
 | ---------------- | ---------------- | ---------------- | 
-| J'ai su faire preuve d'empathie auprès des apprenant.e.s | Je pense que oui, savoir se mettre à la place de l'apprenant pour comprendre ses difficultées est très important en pédagogie, c'est également un peu plus facile quand on l'a également vécu. | ... |
-| J'ai su être exhaustif et précis dans mes retours à l'équipe pédagogique | J | ... |
-| J'ai su percevoir le niveau actuel des apprenant.e.s en fonction du parcours envoyé | ... | ... |
-| J'ai su adapter la complexité de mes retours/corrections en fonction des apprenant.e.s  | ... | ... |
-| J'ai su proposer des pistes d'améliorations aux apprenant.e.s en fonction du niveau perçu (autres exemples, reformulations et explications sans donner la solution finale si possible/nécessaire, autres façons de faire, liens vers la documentation, etc.) | ... | ... |
-| J'ai su proposer une explication cohérente avec un exemple concret sur la notion de fetch | ... | ... |
-| J'ai su appréhender le MCD d'un.e apprenant.e et proposer un retour complet | ... | ... |
-
-> Une case par ligne à remplir par un bref commentaire explicatif à destination de l'équipe péda qui corrigera ton Baptême ;)
+| J'ai su faire preuve d'empathie auprès des apprenant.e.s | Je pense que oui, savoir se mettre à la place de l'apprenant pour comprendre ses difficultés est très important en pédagogie, c'est également un peu plus facile quand on l'a également vécu, ce qui est mon cas. | ... |
+| J'ai su être exhaustif et précis dans mes retours à l'équipe pédagogique | J'ai essayé d'être assez précis concernant la réalisation et le niveau de chaque apprenant. | ... |
+| J'ai su percevoir le niveau actuel des apprenant.e.s en fonction du parcours envoyé | En effet, j'estime avoir correctement évalué le niveau de chaque apprenant en fonction du parcours rendu | Mais un peu de temps passé avec eux aurais pu grandement m'aider à le comprendre |
+| J'ai su adapter la complexité de mes retours/corrections en fonction des apprenant.e.s  | ... | A la fois oui, a la fois non. N'étant pas au contact des dis apprenants, je ne sais vraiment comment ils sont, et ne connait pas leur progression depuis le début de leur apprentissage, je n'ai pas pu donc proposer un vrai retour personnalisé pour chacun des apprenants |
+| J'ai su proposer des pistes d'améliorations aux apprenant.e.s en fonction du niveau perçu (autres exemples, reformulations et explications sans donner la solution finale si possible/nécessaire, autres façons de faire, liens vers la documentation, etc.) | J'ai fait régulièrement des retours comprenant explication et lien vers la documentation afin qu'ils puissent mieux comprendre. | ... |
+| J'ai su proposer une explication cohérente avec un exemple concret sur la notion de fetch | J'ai proposé une explication cohérente de la méthode fetch, tout en donnant des exemples, et des métaphores. Sans pour autant tout donner à l'élève et le laisser découvrir les aspects les plus technique par lui même en donnant un lien vers la documentation | ... |
+| J'ai su appréhender le MCD d'un.e apprenant.e et proposer un retour complet | En effet, j'ai pu facilement comprendre d'ou venait le problème et venir rééxpliquer les notions posant problème sur son MCD. | ... |
